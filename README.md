@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://github.com/jaydip-pawar/jaydip-pawar/blob/main/wave.gif" width="30px">
 
-My name is Jaydip Pawar and I'm a software developer/DevOps engineer. I'm from India, living in Mumbai and currently pursuing my Bachelor's degree. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is **Jaydip Pawar** and I'm a software developer/DevOps engineer. I'm from India, living in Mumbai and currently pursuing my Bachelor's degree. You can find me on [![Twitter][1.2]][1], [![GitHub][2.2]][2] or on [![LinkedIn][3.2]][3].
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -21,9 +21,10 @@ My name is Jaydip Pawar and I'm a software developer/DevOps engineer. I'm from I
 
 ## &#x1f4c8; GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip-pawar)
+![Profile views](https://gpvc.arturio.dev/jaydip-pawar) 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydip-pawar&show_icons=true) 
-
-<!-- links to social media icons -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jaydip-pawar)  
+![GitHub metrics](https://metrics.lecoq.io/jaydip-pawar)
 
 <!-- icons with padding -->
 
