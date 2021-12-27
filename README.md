@@ -3,7 +3,9 @@
 
 # Hello, folks! <img src="https://github.com/jaydip-pawar/jaydip-pawar/blob/main/wave.gif" width="30px">
 
-My name is **Jaydip Pawar** and I'm a software developer/DevOps engineer. I'm from India, living in Mumbai and currently pursuing my Bachelor's degree. You can find me on [![Twitter][1.2]][1], [![GitHub][2.2]][2] or on [![LinkedIn][3.2]][3].
+My name is **Jaydip Pawar** and I'm a software developer/DevOps engineer. I'm from India, living in Mumbai and currently pursuing my Bachelor's degree. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaydip-pawar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/jaydippawar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jaydippawar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JaydipP_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/jaydip-pawar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](jaydip-pawar.web.app)  
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
@@ -20,26 +22,7 @@ My name is **Jaydip Pawar** and I'm a software developer/DevOps engineer. I'm fr
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats 
-![Profile views](https://gpvc.arturio.dev/jaydip-pawar) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip-pawar)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydip-pawar&show_icons=true) 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jaydip-pawar)  
 ![GitHub metrics](https://metrics.lecoq.io/jaydip-pawar)
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/JaydipP_
-[2]: https://github.com/jaydip-pawar
-[3]: https://www.linkedin.com/in/jaydippawar
