@@ -24,5 +24,3 @@ My name is **Jaydip Pawar** and I'm a software developer/DevOps engineer. I'm fr
 ## &#x1f4c8; GitHub Stats 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip-pawar)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydip-pawar&show_icons=true) 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jaydip-pawar)  
-![GitHub metrics](https://metrics.lecoq.io/jaydip-pawar)
