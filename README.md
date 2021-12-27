@@ -20,7 +20,7 @@ My name is Jaydip Pawar and I'm a software developer/DevOps engineer. I'm from I
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip-pawar)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip-pawar)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydip-pawar&show_icons=true) 
 
 <!-- links to social media icons -->
