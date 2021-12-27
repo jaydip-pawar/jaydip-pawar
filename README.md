@@ -19,9 +19,9 @@ My name is **Jaydip Pawar** and I'm a software developer/DevOps engineer. I'm fr
 ![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip-pawar)
+## &#x1f4c8; GitHub Stats 
 ![Profile views](https://gpvc.arturio.dev/jaydip-pawar) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaydip-pawar)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydip-pawar&show_icons=true) 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=jaydip-pawar)  
 ![GitHub metrics](https://metrics.lecoq.io/jaydip-pawar)
