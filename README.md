@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://github.com/jaydip-pawar/jaydip-pawar/blob/main/wave.gif" width="30px">
 
-My name is **Jaydip Pawar** and I'm a software developer/DevOps engineer. I'm from India, living in Mumbai and currently pursuing my Bachelor's degree. You can also find me on following platform <img src="https://github.com/jaydip-pawar/jaydip-pawar/blob/main/down_point.gif" width="25px">
+My name is **Jaydip Pawar** and I'm a Flutter developer/ Python developer. I'm from India, living in Mumbai and currently pursuing my Bachelor's degree. You can also find me on following platform <img src="https://github.com/jaydip-pawar/jaydip-pawar/blob/main/down_point.gif" width="25px">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaydip-pawar) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/jaydippawar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jaydippawar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/JaydipP_)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/13359721/jaydip-pawar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://jaydip-pawar.web.app)  
 
