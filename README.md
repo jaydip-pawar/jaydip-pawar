@@ -2,31 +2,109 @@
 
 # 👋 Hello, World!
 
-🚀 Meet **Jaydip Pawar**, a **Flutter Wizard** 🧙‍♂️ weaving cross-platform magic with **4.5+ years of experience**! Currently crafting next-gen mobile experiences at **[Snapwork Technologies](https://www.linkedin.com/company/snapwork-technologies)** 💼, building high-performance apps for industry giants like **ICICI Bank**. 
+I'm **Jaydip Pawar**, a **Senior Flutter Engineer & Technical Lead** with **6 years of experience** building scalable cross-platform applications across **fintech, banking, and enterprise domains**.
 
-### 🏆 Why Flutter? Because one codebase should rule them all! 💙
-I specialize in **Flutter & Dart**, harnessing the power of **Kotlin for native Android integration**. Beyond mobile apps, I'm deeply invested in **Python, Firebase, IoT tools, and SQL databases**—because great apps need powerful backends too! 🔥
+Currently working with **Skillmine** on an **ICICI Bank engagement**, developing and enhancing internal web applications. Previously at **Snapwork Technologies**, where I worked on large-scale ICICI banking platforms including **iMobile Global** and the **iGlobal / RIB fintech ecosystem**.
 
----
-💡 **Mission:** Becoming a **Full Stack Flutter Polymath** by mastering the entire development spectrum—from front-end finesse to backend brilliance. Always staying ahead with cutting-edge trends & innovations. 🚀
+### 🚀 What I Do
 
-### 🌎 Connect & Collaborate:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaydip_Pawar-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jaydippawar/)
-[![GitHub](https://img.shields.io/badge/GitHub-jaydip--pawar-black?style=flat&logo=github)](https://github.com/jaydip-pawar)
-[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat&logo=medium)](https://medium.com/@jaydippawar)
-[![Portfolio](https://img.shields.io/badge/Website-Portfolio-green?style=flat&logo=google-chrome)](https://jaydip-pawar.web.app)
+I specialize in building production-grade applications with **Flutter & Dart**, with a strong focus on **software architecture, scalability, performance, and maintainability**.
 
-## 🔧 Tech Toolbox: The Spells I Cast 🪄
-🔹 **Languages:** Dart | Kotlin | Python | SQL  
-🔹 **Frameworks & Tools:** Flutter | Firebase | IoT | Android Studio | VS Code  
-🔹 **OS:** Windows | Linux  
-🔹 **Superpowers:** Intuitive UI/UX | Scalable Architectures | Performance Optimization  
+My experience includes:
 
-## 📊 GitHub Chronicles: The Code Tells My Story 📖
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaydip-pawar&show_icons=true) 
+* 🏗️ **Clean Architecture, DDD, MVVM & Modular Architecture**
+* 📱 **Flutter for Android, iOS & Web**
+* 🔄 **Bloc, Riverpod & Provider**
+* 🔌 **REST API integration & secure data handling**
+* ⚡ **Performance optimization & scalable application design**
+* ☁️ **Firebase & GCP**
+* 🚀 **GitLab CI/CD & build automation**
+* 🐍 **Python-based development automation**
+* 👥 **Technical leadership, mentoring & code reviews**
 
-## 🚀 Open Source Adventures
-Currently working on **Samagra Launcher**—an innovative, open-source Android launcher built with **Flutter & Kotlin**. Stay tuned as I reshape the Android home screen experience! 🔥📱
+One of my recent performance improvements reduced authentication/login time from approximately **6 seconds to 2 seconds** through performance-focused engineering.
 
 ---
-💬 **Let's connect and create magic together! ✨**
+
+## 🎯 Current Mission
+
+I'm expanding beyond mobile development toward **full-stack engineering**.
+
+Currently exploring and building deeper expertise in:
+
+**Go → Backend Development → REST APIs → Databases → System Design → Full-Stack Engineering**
+
+My goal is to combine my experience in **Flutter, application architecture, and product engineering** with strong backend and database skills to become a well-rounded full-stack engineer.
+
+---
+
+## 🔧 Tech Toolbox
+
+### Languages
+
+`Dart` `Kotlin` `Python` `SQL` `Go`
+
+### Frameworks & Development
+
+`Flutter` `Android` `Flutter Web` `REST APIs`
+
+### Architecture & State Management
+
+`Clean Architecture` `DDD` `MVVM` `Modular Architecture` `Bloc` `Riverpod` `Provider`
+
+### Data & Cloud
+
+`SQLite` `Hive` `Firebase` `GCP`
+
+### DevOps & Automation
+
+`GitLab CI/CD` `Python Automation` `Pre-commit` `Architecture Validation`
+
+### Tools
+
+`Android Studio` `VS Code` `Git`
+
+---
+
+## 🏦 Fintech & Banking Experience
+
+I've worked on enterprise banking platforms serving international users across multiple geographies.
+
+### iMobile Global — ICICI International Banking Platform
+
+* Multi-country banking application across **6 geographies**
+* Modular and scalable Flutter architecture
+* Performance optimization
+* Technical leadership and engineering standards
+* Team mentoring and code reviews
+
+### iGlobal / RIB — Web + Mobile Fintech Ecosystem
+
+* Multi-platform fintech ecosystem
+* Clean Architecture + DDD
+* Flutter Web and mobile development
+* CI/CD and development automation
+* Architecture validation and engineering workflows
+
+---
+
+## 🚀 Open Source & Personal Projects
+
+### Samagra Launcher
+
+An open-source Android launcher built using **Flutter & Kotlin**, exploring the intersection of Flutter UI development and native Android capabilities.
+
+I'm also continuously experimenting with **backend development, automation, system design, and new engineering tools**.
+
+---
+
+## 🌎 Connect & Collaborate
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jaydip_Pawar-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/in/jaydippawar/)
+[![GitHub](https://img.shields.io/badge/GitHub-jaydip--pawar-black?style=flat\&logo=github)](https://github.com/jaydip-pawar)
+[![Medium](https://img.shields.io/badge/Medium-Blog-black?style=flat\&logo=medium)](https://medium.com/@jaydippawar)
+[![Portfolio](https://img.shields.io/badge/Website-Portfolio-green?style=flat\&logo=google-chrome)](https://jaydip-pawar.web.app)
+
+---
+
+💬 **Building better software, one system at a time.**
